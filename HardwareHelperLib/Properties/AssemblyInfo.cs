@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HardwareHelperLib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Library for controlling windows devices.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Apple Industries, Inc.")]
 [assembly: AssemblyProduct("HardwareHelperLib")]
 [assembly: AssemblyCopyright("Copyright ©  2007 by William J Francis")]
 [assembly: AssemblyTrademark("")]
